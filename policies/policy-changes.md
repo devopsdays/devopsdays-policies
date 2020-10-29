@@ -28,7 +28,7 @@ Even if all required approvals are obtained inside the pull request prior to the
 
 All policies will be stored in the `/policies` folder inside the repository.
 
-The “main” branch of the `devopsdays/devopsdays-policies` repository will be configured to not allow merges without a minimum of 6 approvals from [CODEOWNERS](.github/CODEOWNERS), and configured to dismiss approvals if new commits are pushed to the pull request. This branch protection will also be extended to include administrators.
+The “main” branch of the `devopsdays/devopsdays-policies` repository will be configured to not allow merges without a minimum of 6 approvals from [CODEOWNERS](https://github.com/devopsdays/devopsdays-policies/blob/main/.github/CODEOWNERS), and configured to dismiss approvals if new commits are pushed to the pull request. This branch protection will also be extended to include administrators.
 
 The repository will be configured with a CODEOWNERS file to include all files in the repo, with a group that includes all active and advisory core team members, so that they are automatically requested to review the pull request.
 
