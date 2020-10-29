@@ -1,0 +1,4 @@
+# This file identifies who needs to review pull requests that touch certain parts of the repo.
+# Each line is a file pattern followed by one or more owners.
+
+*       @devopsdays/core-active @devopsdays/core-advisory
