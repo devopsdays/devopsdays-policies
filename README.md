@@ -1,5 +1,5 @@
 # devopsdays-policies
-Repository containing policies related to devopsdays
+Repository containing policies related to devopsdays. Changes to policies in this repository are subject to the [DevOpsDays Policy Change and Approval Process](policies/policy-changes.md).
 
 ## List of policies in this Repository
 
