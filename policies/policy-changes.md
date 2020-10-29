@@ -30,11 +30,11 @@ All policies will be stored in the `/policies` folder inside the repository.
 
 The “main” branch of the `devopsdays/devopsdays-policies` repository will be configured to not allow merges without a minimum of 6 approvals from [CODEOWNERS](https://github.com/devopsdays/devopsdays-policies/blob/main/.github/CODEOWNERS), and configured to dismiss approvals if new commits are pushed to the pull request. This branch protection will also be extended to include administrators.
 
-The repository will be configured with a CODEOWNERS file to include all files in the repo, with a group that includes all active and advisory core team members, so that they are automatically requested to review the pull request.
+The repository will be configured with a [`CODEOWNERS` file](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners) to include all files in the repo, with a group that includes all active and advisory core team members, so that they are automatically requested to review the pull request.
 
 ### CODEOWNERS configuration
 
-The default owners of the entire repository will be @devopsdays/core-active and @devopsdays/core-advisory. The CODEOWNERS file should look like this:
+The default owners of the entire repository will be [@devopsdays/core-active](https://github.com/orgs/devopsdays/teams/core-active) and [@devopsdays/core-advisory](https://github.com/orgs/devopsdays/teams/core-advisory). The `CODEOWNERS` file should look like this:
 
 ```
 *       @devopsdays/core-active @devopsdays/core-advisory
