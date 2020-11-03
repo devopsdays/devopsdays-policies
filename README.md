@@ -5,4 +5,4 @@ Repository containing policies related to devopsdays. Changes to policies in thi
 
 - [DevOpsDays Policy Change and Approval Process](policies/policy-changes.md)
 - [DevOpsDays Core Team Membership Policies](policies/team-membership.md)
-- [Rules for DevOpsDays Events](policies/devopsdays-event-rules.md)
+- [Rules for DevOpsDays Events](policies/devopsdays-event-rules.md) hello
