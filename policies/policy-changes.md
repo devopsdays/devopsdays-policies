@@ -10,9 +10,9 @@ In case of any discrepancy or disagreement about a policy related to devopsdays,
 
 If a change to a policy is requested, an optional GitHub issue can be opened in the [devopsdays/devopsdays-policies](https://github.com/devopsdays/devopsdays-policies) GitHub repo to discuss it. The creation of an issue is optional, and changes can be proposed directly via a pull request as specified below.
 
-Any proposed changes to a policy document should be proposed via a [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the repo. When a policy change is proposed via a pull request, the person making the proposal should email info@devopsdays.org with a link to the pull request, requesting review/comments on the change.
+Any proposed changes to a policy document should be proposed via a [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the repo. When a policy change is proposed via a pull request, the person making the proposal should email info@devopsdays.org with a link to the pull request, requesting review/comments on the change. 
 
-All policy changes will have a 2 week RFC period, during which comments can be made on the pull request. At the end of the 2 week period, the policy enters a one week voting period, at which point no further changes should be made to the PR, and all active and advisory core members are invited to vote on the policy change.
+All policy changes will have a 2 week RFC period, during which comments can be made on the pull request. During the 2 week RFC period, the pull request should be [marked as a "draft"](https://github.blog/2019-02-14-introducing-draft-pull-requests/).  At the end of the 2 week period, the policy enters a one week voting period and the draft status is removed, at which point no further changes should be made to the PR, and all active and advisory core members are invited to vote on the policy change.
 
 ### Policy change approvals
 
