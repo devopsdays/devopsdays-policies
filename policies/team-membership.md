@@ -27,7 +27,7 @@ If a member has a strong objection to the inclusion of a proposed member, they s
 
 ## Co-Chair Policy
 
-There will be two co-chairs of the DevOpsDays Core team at any time. Chairs will serve a tenure of two years, in a one-year staggered tenure schedule. Tenure begins on 1 November of a calendar year and terminates on 31 October two years following. For example:
+There will be three co-chairs of the DevOpsDays Core team at any time. Chairs will serve a tenure of two years, in a staggered tenure schedule. Tenure begins on 1 November of a calendar year and terminates on 31 October two years following. For example:
 
 *Navita - tenure begins 1 Nov 2020, ends 31 Oct 2022<br>
 Lee - tenure begins 1 Nov 2021, ends 31 Oct 2023<br>
@@ -44,7 +44,8 @@ Tenure schedule:
 |---------------|--------------|-------------|
 | Matt Stratton | 1 Nov 2020   | 31 Oct 2023 |
 | Yvo van Doorn | 1 Nov 2020   | 31 Oct 2022 |
-| TBD           | 1 Nov 2020   | 31 Oct 2024 |
+| Dan Maher     | 1 Nov 2022   | 31 Oct 2024 |
+| Katie McLaughlin | 1 Nov 2022 | 31 Oct 2025 |
 
 ### Choosing co-chairs
 
