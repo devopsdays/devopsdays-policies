@@ -40,8 +40,8 @@ Tenure schedule:
 
 | Name          | Tenure Start | Tenure End  |
 |---------------|--------------|-------------|
-| Matt Stratton | 1 Nov 2020   | 31 Oct 2023 |
-| Yvo van Doorn | 1 Nov 2020   | 31 Oct 2022 |
+| Matt Stratton | 1 Nov 2020   | 31 Oct 2022 |
+| Yvo van Doorn | 1 Nov 2020   | 31 Oct 2023 |
 | Dan Maher     | 1 Nov 2022   | 31 Oct 2024 |
 | Katie McLaughlin | 1 Nov 2022 | 31 Oct 2025 |
 
