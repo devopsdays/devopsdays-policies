@@ -19,7 +19,7 @@ Every year on 1 November (to coincide with the new tenure of a co-chair) the co-
 
 To be added to the devopsdays Core team, a prospective member must be nominated by an existing member (Active, Advisory, and Emeritus Core Organizers are all eligible to provide nominations). Proposals should be submitted to the co-chairs via email. The co-chairs will send an email to the Active and Advisory Core Organizers (via organizers-core@devopsdays.org) asking for their vote/feedback. There will be a 2 week voting period after this first email is sent; any abstention will count as a positive vote for the proposed member. In order to be added, a proposed member must carry a ⅔ majority vote of current active and advisory members. 
 
-A temporary private Slack channel will be created for use of discussion of the proposed member (example name: **#vetting-lee-smith**, etc). All Active and Advisory Core Organizers will be added to this channel. Responsibility of creating/deletion of this channel falls to the co-chairs. 
+A temporary private Slack channel will be created for use of discussion of the proposed member (example name: **#_tmp-vetting-lee-smith**, etc). All Active and Advisory Core Organizers will be added to this channel. Responsibility of creating/deletion of this channel falls to the co-chairs. 
 
 After voting has concluded on the proposed member, this temporary channel will be deleted.
 
