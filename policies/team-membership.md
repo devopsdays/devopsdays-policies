@@ -40,9 +40,9 @@ Tenure schedule:
 
 | Name          | Tenure Start | Tenure End  |
 |---------------|--------------|-------------|
-| Dan Maher     | 1 Nov 2022   | 31 Oct 2024 |
 | Katie McLaughlin | 1 Nov 2022 | 31 Oct 2025 |
 | Jason Yee     | 1 Nov 2023   | 31 Oct 2026 |
+| Floor Drees   | 1 Nov 2024   | 31 Oct 2027 |
 
 ### Choosing co-chairs
 
