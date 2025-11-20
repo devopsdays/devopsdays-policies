@@ -41,9 +41,9 @@ Tenure schedule:
 
 | Name          | Tenure Start | Tenure End  |
 |---------------|--------------|-------------|
-| Katie McLaughlin | 1 Nov 2022 | 31 Oct 2025 |
 | Jason Yee     | 1 Nov 2023   | 31 Oct 2026 |
 | Floor Drees   | 1 Nov 2024   | 31 Oct 2027 |
+| Laura Santamaria | 1 Nov 2025 | 31 Oct 2028 |
 
 ### Choosing co-chairs
 
