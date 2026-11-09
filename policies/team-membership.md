@@ -32,7 +32,7 @@ There will be three co-chairs of the DevOpsDays Core team at any time. Chairs wi
 *Navita - tenure begins 1 Nov 2020, ends 31 Oct 2023<br>
 Lee - tenure begins 1 Nov 2021, ends 31 Oct 2024<br>
 Chris - tenure begins 1 Nov 2022, ends 31 Oct 2025<br>
-Robin (replaces Navita) - tenure bebins 1 Nov 2023, ends 31 Oct 2026<br>
+Robin (replaces Navita) - tenure begins 1 Nov 2023, ends 31 Oct 2026<br>
 Etc*
 
 Note: all dates for deadlines, tenure time, etc, are in UTC.
@@ -41,9 +41,9 @@ Tenure schedule:
 
 | Name          | Tenure Start | Tenure End  |
 |---------------|--------------|-------------|
-| Jason Yee     | 1 Nov 2023   | 31 Oct 2026 |
 | Floor Drees   | 1 Nov 2024   | 31 Oct 2027 |
 | Laura Santamaria | 1 Nov 2025 | 31 Oct 2028 |
+| Dan Maher | 1 Nov 2026 | 31 Oct 2029 |
 
 ### Choosing co-chairs
 
